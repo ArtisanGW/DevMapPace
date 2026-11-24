@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Dev MapPace
+## Notes: Development tool. /mappace: frame times while the world map opens and closes, with the game's addon profiler per addon, into DevMapPaceDB. /mappace deep also times the game's own map steps.
+## Author: Artisan
+## Version: 1.0
+## SavedVariables: DevMapPaceDB
+## Category: Private
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+
+MapPace.lua
